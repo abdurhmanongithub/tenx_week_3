@@ -1,4 +1,4 @@
-# Weekly Project: Data Analysis and Git Workflow
+# Week 3 Project: Data Analysis and Git Workflow
 
 ## Overview
 This project focuses on learning and applying Git version control, Continuous Integration/Continuous Deployment (CI/CD) with GitHub Actions, and Exploratory Data Analysis (EDA). It includes tasks related to managing repositories, analyzing data, and automating workflows.
@@ -13,7 +13,7 @@ This project focuses on learning and applying Git version control, Continuous In
 - `task-1`: Branch for the initial Git setup, CI/CD pipeline, and EDA.
 - Additional branches will be created for other tasks.
 
-## Tasks in This Week
+## Tasks in Week 3
 ### Task 1: Git and GitHub Setup
 - Create a GitHub repository for the project.
 - Set up GitHub Actions for CI/CD.
